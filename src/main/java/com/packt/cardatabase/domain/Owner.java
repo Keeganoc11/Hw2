@@ -60,4 +60,7 @@ public class Owner {
 	public void setLastname(String lastname) {
 		this.lastname = lastname;
 	}
+
+    public void setOwnerid(Long ownerid) {
+    }
 }
